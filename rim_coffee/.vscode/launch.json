@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Rim Coffee (dispositivo)",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Rim Coffee (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    }
+  ]
+}
